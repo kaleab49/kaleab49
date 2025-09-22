@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm Kaleab Yemane, a back-end engineer and contributor with a great passion to tech and looking for collaboration!!
 
+![Profile views](https://komarev.com/ghpvc/?username=kaleab49&color=blue)
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam.kaleab) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kaleaby11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaleaby49@gmail.com) 
